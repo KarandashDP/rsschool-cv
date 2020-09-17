@@ -3,7 +3,7 @@
 ## **Surname**: Cherednichenko
 ## **Contacts**: PardonneDP@gmail.com    +38-063-253-80-40
 ## **Skills**: HTML CSS JS Angular beginner level
-## **Code**: ```
+## **Code**: 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -142,7 +142,7 @@
     </script>
 
 </body>
-</html> ```
+</html>
 
 ## **Expirience**: IMT Academy Cources, self education
 ## **Education**: IMT Academy Cources, self education
