@@ -1,8 +1,9 @@
-Name: Stanislav
-Surname: Cherednichenko
-Contacts: PardonneDP@gmail.com    +38-063-253-80-40
-Skills: HTML CSS JS Angular beginner level
-Code: 
+#**Information**
+##**Name**: Stanislav
+##**Surname**: Cherednichenko
+##**Contacts**: PardonneDP@gmail.com    +38-063-253-80-40
+##**Skills**: HTML CSS JS Angular beginner level
+##**Code**: ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -141,8 +142,8 @@ Code:
     </script>
 
 </body>
-</html>
+</html>```
 
-Expirience: IMT Academy Cources, self education
-Education: IMT Academy Cources, self education
-English lvl: Pre-Intermediate
+##**Expirience**: IMT Academy Cources, self education
+##**Education**: IMT Academy Cources, self education
+##**English lvl**: Pre-Intermediate
