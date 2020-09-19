@@ -1,1 +1,1 @@
-https://KarandashDP.github.io/rsschool-cv/cv
+https://KarandashDP.github.io/rsschool-cv/
